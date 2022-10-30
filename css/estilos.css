@@ -2,3 +2,8 @@ body{
     text-align: center;
     color: blueviolet;
 }
+#cabecera{
+    background-color: aquamarine;
+    text-align: center;
+    padding: 2em;
+}
