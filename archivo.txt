@@ -1,1 +1,7 @@
 Hola desde platzi
+
+MASTER 1
+
+EXPERIMENTO 1
+EXPERIMENTO 2
+MASTER 2
